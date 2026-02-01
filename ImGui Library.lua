@@ -22,7 +22,7 @@ local HEADER_HEIGHT = 30
 local BORDER_SIZE = 1
 local MIN_WINDOW_SIZE = Vector2.new(200, 100)
 local DRAG_THRESHOLD = 3
-print("Library by JhonaDev139")
+
 --[[
     Temas de cores predefinidos
     Permite personalização completa da aparência da UI
@@ -1455,3 +1455,4 @@ function ImGui.Elements.Label:UpdateTheme(theme)
 end
 
 return ImGui
+
