@@ -95,22 +95,27 @@ gui:UnregisterHotkey(Enum.KeyCode.F1) -- Remover hotkey
 `Example1_BasicWindow()`
 
 -- Janela com abas
+
 `Example2_WindowWithTabs()`
 
 
 -- Múltiplas janelas e temas
+
 `Example3_MultipleWindowsAndThemes()`
 
 
 -- Drag & Drop
+
 `Example4_DragAndDrop()`
 
 
 -- Hotkeys
+
 `Example5_HotkeysDemo()`
 
 
 -- Executar todos de uma vez
+
 `RunAllExamples()`
 
 ---
@@ -126,7 +131,6 @@ Registre hotkeys para ações rápidas.
 Temas personalizados permitem criar uma interface com identidade visual própria.
 
 Separe janelas por funcionalidade: jogador, aparência, ferramentas e informações.
-
-👨‍💻 Contato
+---
 
 ## **Criado por JhonaDev139**
