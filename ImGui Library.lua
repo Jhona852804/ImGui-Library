@@ -5,7 +5,7 @@
     Uma biblioteca modular e flexível para criar interfaces gráficas
     dinâmicas e interativas no Roblox.
 --]]
-print("Library by JhonaDev139")
+
 local ImGui = {}
 ImGui.__index = ImGui
 ImGui.Version = "1.0.0"
@@ -1455,4 +1455,3 @@ function ImGui.Elements.Label:UpdateTheme(theme)
 end
 
 return ImGui
-
