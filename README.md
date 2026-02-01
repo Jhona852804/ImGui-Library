@@ -17,8 +17,10 @@ local ImGui = loadstring(game:HttpGet("https://raw.githubusercontent.com/Jhona85
 **Crie uma instância do GUI:**
 ```lua
 local gui = ImGui.new()
+```
 
 🖥 Criando Janelas
+```Lua
 Janela Básica
 local window = gui:CreateWindow("Minha Janela", {
     size = Vector2.new(400, 500),
