@@ -33,13 +33,21 @@ local window = gui:CreateWindow("Minha Janela", {
 **Elemento	Sintaxe	Descrição**
 
 `Label	window:AddLabel("Texto")`	Adiciona texto estático.
+
 `Separator	window:AddSeparator()`	Linha separadora.
+
 `Slider	window:AddSlider("Nome", min, max, valor_inicial, callback)`	Slider que retorna valor em tempo real.
+
 `Checkbox	window:AddCheckbox("Nome", valor_inicial, callback)`	Caixa de seleção.
+
 `TextBox	window:AddTextBox("Nome", "Placeholder", callback)`	Campo de texto editável.
+
 `Dropdown	window:AddDropdown("Nome", {"Opção1","Opção2"}, opção_inicial, callback)`	Menu suspenso com opções.
+
 `Button	window:AddButton("Nome", callback)`	Botão de ação.
+
 `Tab	window:AddTab("Nome")`	Cria abas dentro da janela.
+
 
 ---
 🗂 Abas (Tabs)
@@ -81,23 +89,31 @@ end)
 gui:UnregisterHotkey(Enum.KeyCode.F1) -- Remover hotkey
 ```
 **📌 Exemplos Prontos**
+
 -- Janela básica
+
 `Example1_BasicWindow()`
 
 -- Janela com abas
 `Example2_WindowWithTabs()`
 
+
 -- Múltiplas janelas e temas
 `Example3_MultipleWindowsAndThemes()`
+
 
 -- Drag & Drop
 `Example4_DragAndDrop()`
 
+
 -- Hotkeys
 `Example5_HotkeysDemo()`
 
+
 -- Executar todos de uma vez
 `RunAllExamples()`
+
+---
 
 ##⚡ Dicas de Uso
 
@@ -113,5 +129,4 @@ Separe janelas por funcionalidade: jogador, aparência, ferramentas e informaç�
 
 👨‍💻 Contato
 
-Criado por JhonaDev
-GitHub Repository
+## **Criado por JhonaDev139**
