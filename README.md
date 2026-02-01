@@ -131,6 +131,7 @@ Registre hotkeys para ações rápidas.
 Temas personalizados permitem criar uma interface com identidade visual própria.
 
 Separe janelas por funcionalidade: jogador, aparência, ferramentas e informações.
+
 ---
 
 ## **Criado por JhonaDev139**
