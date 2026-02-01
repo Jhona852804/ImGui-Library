@@ -120,6 +120,18 @@ gui:UnregisterHotkey(Enum.KeyCode.F1) -- Remover hotkey
 
 ---
 
+## 📂 Exemplo Prático
+
+Incluímos um script de exemplo para demonstrar todas as funcionalidades da biblioteca.  
+Você pode testá-lo diretamente:
+
+[ExemploCompleto.lua](./ExemploCompleto.lua)
+
+> Esse script contém exemplos de janelas, abas, sliders, checkboxes, dropdowns, botões e hotkeys.  
+> Basta abrir no Roblox Studio ou em um executor compatível e executar.
+
+---
+
 ##⚡ Dicas de Uso
 
 Combine janelas, abas e elementos para criar painéis complexos.
